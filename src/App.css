@@ -1,7 +1,38 @@
+/* ////////////// */
+/*    Banner      */
+/* ////////////// */
+#Banner {
+  height: 50vh;
+  text-transform: uppercase;
+  text-align: center;
+  font-size: 80px;
+}
+/* ////////////// */
+/*      Home      */
+/* ////////////// */
+
 #Home {
 
 }
+#Home h1, #Home h2, #Home p {
+  text-align: center;
+}
+/* ////////////// */
+/*      Nav       */
+/* ////////////// */
 #Nav {
   height: 50px;
   border: 2px solid black;
+  
+}
+#Nav ul {
+  /* notate in tutorial */
+  display: flex;
+  justify-content: center;
+}
+#Nav li {
+  list-style: none;
+  padding: 5px;
+  text-transform: uppercase;
+  font-size: 18px;
 }
