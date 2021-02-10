@@ -7,9 +7,9 @@
 
 ## Secondly we will:
 - Fork this repository
-![Fork button](fork.jpg)
+    - ![Fork button](fork.jpg)
 - Click the **code** button and **clone** the forked repository
-![Clone and copy link](clone.jpg)
+    - ![Clone and copy link](clone.jpg)
 - Manuever into the folder you want to save your tutorial files in and type in your terminal:
 > git clone [paste link here] 
 - cd into your react app and type:
