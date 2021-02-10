@@ -9,6 +9,13 @@
 h1 {
   color: #83c5be;
 }
+.Links {
+  color: #006D77;
+  text-decoration-line: none;
+}
+.Links:hover {
+  color: #83c5be;
+}
 /* ////////////// */
 /*    Banner      */
 /* ////////////// */
@@ -17,10 +24,9 @@ h1 {
   text-transform: uppercase;
   text-align: center;
   font-size: 80px;
+  text-shadow: 0 0 5px #000000;
 }
-#Banner h1 {
-text-shadow: #ffffff 1px 1px 1px 1px;
-}
+
 /* ////////////// */
 /*      Home      */
 /* ////////////// */
