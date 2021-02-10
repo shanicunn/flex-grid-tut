@@ -10,4 +10,4 @@ function BlogMain() {
         </main>
     )
 }
-export default BlogMain;
+export default BlogMain;L
